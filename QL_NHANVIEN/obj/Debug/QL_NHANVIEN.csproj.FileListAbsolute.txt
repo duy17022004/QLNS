@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\bin\Debug\QL_NHANVIEN.exe.config
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\bin\Debug\QL_NHANVIEN.exe
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\bin\Debug\QL_NHANVIEN.pdb
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.exe
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.pdb
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.frmAdmin.resources
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.frmEmployees.resources
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.fLogin.resources
+C:\Users\ADMIN\source\repos\QL_NHANVIEN\QL_NHANVIEN\obj\Debug\QL_NHANVIEN.register.resources
